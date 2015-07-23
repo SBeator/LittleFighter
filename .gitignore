@@ -1,0 +1,8 @@
+Library/
+ProjectSettings/
+Temp/
+Build/LittleFighter2_Data/
+*.exe
+*.csproj
+*.sln
+*.userprefs

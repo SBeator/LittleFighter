@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<GameConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <players>
+    <players>
+      <PlayerConfig>
+        <name>David</name>
+      </PlayerConfig>
+      <PlayerConfig>
+        <name>Steven</name>
+      </PlayerConfig>
+    </players>
+  </players>
+  <stageLevelConfig>
+    <stages>
+      <StageConfig>
+        <levels>
+          <LevelConfig>
+            <enemyWaves>
+              <EnemyWaveConfig>
+                <enemyCountMap>
+                  <EnemyCountConfig>
+                    <name>Bandit</name>
+                    <count>1</count>
+                  </EnemyCountConfig>
+                </enemyCountMap>
+              </EnemyWaveConfig>
+            </enemyWaves>
+          </LevelConfig>
+        </levels>
+      </StageConfig>
+    </stages>
+  </stageLevelConfig>
+</GameConfig>
